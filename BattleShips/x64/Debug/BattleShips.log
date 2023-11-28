@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\BaoNguyen\Desktop\C Program\BattleShips\BattleShips\MyTemplate.h(45,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BaoNguyen\Desktop\C Program\BattleShips\BattleShips\MyTemplate.h(92,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BaoNguyen\Desktop\C Program\BattleShips\BattleShips\MyTemplate.h(108,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\BaoNguyen\Desktop\C Program\BattleShips\BattleShips\MyTemplate.h(110,18): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\BaoNguyen\Desktop\C Program\BattleShips\BattleShips\main.c(64,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BattleShips.vcxproj -> C:\Users\BaoNguyen\Desktop\C Program\BattleShips\x64\Debug\BattleShips.exe
