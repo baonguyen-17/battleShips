@@ -15,11 +15,10 @@ A game of battleships set on a chess board, written in C!
 - Microsoft Visual Studio (Community Edition 2019 or later) on Windows, or VS Code on Mac (click [here](https://www.youtube.com/watch?v=77v-Poud_io) for instructions to install & configure C/C++ on VS Code)
 
 ## Installation Guide:
-### For Microsoft Visual Studio:
+### For Windows:
 - Clone the repository on Visual Studio or download the ZIP file to computer
-- Open ```battleShips.sln``` using Visual Studio
-- Debug the program by clicking ``F5``
+- Run ```main.exe``` from folder ```battleShips``` to play!
 
-### For VS Code:
+### For MacOS:
 - Open ```main.c``` in the ```battleShips``` folder using VS Code
 - Click ``Run Code`` to start debugging the code
